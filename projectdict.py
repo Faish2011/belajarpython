@@ -1,0 +1,40 @@
+Infantry_Fighting_Vehicle = dict (name = "CV-9050 MKD", years = "1980")
+
+print (type (Infantry_Fighting_Vehicle))
+print (Infantry_Fighting_Vehicle)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
