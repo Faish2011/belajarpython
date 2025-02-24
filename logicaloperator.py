@@ -22,6 +22,3 @@ print (not number1 == 5)
 
 
 
-
-
-
