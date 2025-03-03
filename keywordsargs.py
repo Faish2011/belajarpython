@@ -1,0 +1,56 @@
+def fullname (fname, lname):
+  print (f"your fullname is", end = " ")  
+  print (f"{fname} {lname}")  
+
+fullname (lname = "Antara", fname = "Jaka")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
