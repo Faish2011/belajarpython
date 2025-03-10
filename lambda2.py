@@ -1,0 +1,42 @@
+(lambda name : print (f"hello, {name}")) ("jaka")
+
+is_even = lambda n : print ("yes") if n % 2 == 0 else print ("no")
+is_even (2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
