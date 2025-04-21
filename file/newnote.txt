@@ -1,0 +1,4 @@
+my goals
+========
+master Database
+master Django
