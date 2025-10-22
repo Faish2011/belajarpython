@@ -14,7 +14,7 @@
 # my_code.save ("barcode")
 
 
-from barcode import EAN13, Code39, Code128, JAN
+from barcode import EAN13, Code39, Code128
 from barcode.writer import ImageWriter
 
 
